@@ -1,4 +1,14 @@
 {
   "item.tutorialmod.ruby": "Ruby Gem",
-  "item.tutorialmod.raw_ruby": "Raw Ruby"
+  "item.tutorialmod.raw_ruby": "Raw Ruby",
+
+  "block.tutorialmod.ruby_block": "Ruby Block",
+  "block.tutorialmod.raw_ruby_block": "Raw Ruby Block",
+  "block.tutorialmod.ruby_ore": "Ruby Ore",
+  "block.tutorialmod.ruby_deepslate_ore": "Deepslate Ruby Ore",
+
+  "item.tutorialmod.burger": "Burger",
+  "item.tutorialmod.thai_tea_boba": "Thai Boba Tea",
+
+  "creativetab.tutorialmod.ruby_items": "Ruby Items"
 }
