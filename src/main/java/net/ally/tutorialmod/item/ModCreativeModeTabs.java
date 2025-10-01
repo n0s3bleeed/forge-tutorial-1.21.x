@@ -27,6 +27,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.RUBY_ORE.get());
 
                         output.accept(ModItems.BURGER.get());
+                        output.accept(ModItems.CHEESE.get());
                         output.accept(ModItems.THAI_TEA_BOBA.get());
 
 

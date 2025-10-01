@@ -19,14 +19,18 @@ public class ModItems {
 
      public static final RegistryObject<Item> RUBY = ITEMS.register("ruby",
         ()-> new Item(new Item.Properties()));
+
      public static final RegistryObject<Item> RAW_RUBY = ITEMS.register("raw_ruby",
         ()-> new Item(new Item.Properties()));
 
     public static final RegistryObject<Item> BURGER = ITEMS.register("burger",
             ()-> new Item(new Item.Properties().food(ModFoodProperties.BURGER)));
+
     public static final RegistryObject<Item> THAI_TEA_BOBA = ITEMS.register("thai_tea_boba",
             ()-> new DrinkItem(new Item.Properties().food(DrinkItem.THAI_MILK_TEA)));
 
+    public static final RegistryObject<Item> CHEESE = ITEMS.register("cheese",
+            ()-> new Item(new Item.Properties().food(ModFoodProperties.CHEESE)));
 
          public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
