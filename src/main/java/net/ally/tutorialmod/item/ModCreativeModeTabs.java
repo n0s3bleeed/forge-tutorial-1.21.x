@@ -29,6 +29,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.BURGER.get());
                         output.accept(ModItems.CHEESE.get());
                         output.accept(ModItems.THAI_TEA_BOBA.get());
+                        output.accept(ModItems.CHEESEBURGER.get());
 
 
                     }).build());

@@ -10,4 +10,6 @@ public class ModFoodProperties {
 
     public static final FoodProperties CHEESE = new FoodProperties.Builder().nutrition(1).saturationModifier(0.2f).build();
 
+    public static final FoodProperties CHEESEBURGER = new FoodProperties.Builder().nutrition(6).saturationModifier(0.7f).build();
+
 }

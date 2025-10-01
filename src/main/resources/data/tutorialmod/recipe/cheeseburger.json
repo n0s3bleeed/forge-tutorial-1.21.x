@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "A": {
+        "item": "minecraft:bread"
+      },
+      "B": {
+        "item": "minecraft:cooked_beef"
+      },
+      "C": {
+        "item": "tutorialmod:cheese"
+      }
+    },
+    "pattern": [
+      "A  ",
+      "BC ",
+      "A  "
+      ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:cheeseburger"
+  }
+}
