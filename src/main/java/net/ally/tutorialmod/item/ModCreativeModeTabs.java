@@ -30,6 +30,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.CHEESE.get());
                         output.accept(ModItems.THAI_TEA_BOBA.get());
                         output.accept(ModItems.CHEESEBURGER.get());
+                        output.accept(ModItems.RUBY_KNIFE.get());
 
 
                     }).build());
